@@ -1,2 +1,2 @@
 # pytorch_ANN_google-colab
-This repository contains a Jupyter notebook that demonstrates how to build, train, and evaluate an Artificial Neural Network (ANN) using PyTorch to classify diabetes in the Pima Indians dataset. 
+This repository contains a google colab that demonstrates how to build, train, and evaluate an Artificial Neural Network (ANN) using PyTorch to classify diabetes in the Pima Indians dataset. The notebook includes data preprocessing, model construction with advanced features like batch normalization and dropout, and leverages GPU for faster training. Detailed explanations and results are provided with step by step process.
